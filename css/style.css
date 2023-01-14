@@ -660,7 +660,7 @@ body {
     .menu__icon {
         display: block;
         width: 30px;
-        height: 18px;
+        height: 23px;
         position: relative;
         cursor: pointer;
         z-index: 100;
@@ -671,7 +671,7 @@ body {
         left: 0;
         height: 2px;
         width: 100%;
-        background-color: #F9CE5C;
+        background-color: #cc9836;
     }
     
     .menu__icon span:first-child {
